@@ -121,8 +121,9 @@ footer{
     background-color: black;
     color: white;
     height: 40px;
-    
-    
+    margin-top: 57%;
+    font-family:Arial, Helvetica, sans-serif;
+    padding: 5px;
     width: 100%;
  
 }
